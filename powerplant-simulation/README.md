@@ -4,6 +4,7 @@ A powerplant for the city of Redmond goes offline every third day because of loc
 ##Formal Inputs & Outputs:
 _Input Description:_
 Integer days - the number of days we want to simulate the powerplant
+
 _Output Description:_
 Return the number of days the powerplant is operational.
 ##Sample Inputs & Outputs:
